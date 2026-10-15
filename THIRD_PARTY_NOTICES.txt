@@ -1,0 +1,15 @@
+Omni Player public build — component notices
+
+Original game executables, audio, level data, translation payloads and console/phone firmware are not supplied in the installable player. The accepted decorative title/icon artwork from v3 is retained for the interface; original artwork and marks remain material of their respective owners. Names identify supported user-provided editions.
+
+ExEn VM: Handyplay ExEn core, commit 460b149302e9a52523bc314a37efabbee9f3d666, and the preserved bridge modifications. GNU AGPL version 3. The exact bridge source, including the change that loads the original font from local user data, is supplied in bridge-sources/m-banjo/native. See third_party/licenses/ExEn-AGPL-3.0.txt and the native README.
+https://github.com/mohamedahmed166e/my-mre-emulator/tree/main/exen-core
+
+FFmpeg 7.1.1: configured without GPL/nonfree components; LGPL version 2.1 or later. Used for local QCELP decoding. Source and build configuration are supplied, alongside ARM64 static libraries and the JNI source for relinking. No restriction on modifying/rebuilding these components is added by Omni.
+CPython 3.13.7: PSF license and bundled component notices; used internally for the preserved conversion routines.
+libarchive 3.8.1: BSD and component licenses in its COPYING file; bounded ZIP/RAR/7z decoding.
+XZ Utils 5.8.1/liblzma: licenses in the supplied source and notices; local LZMA decompression.
+ASM 9.7.1 (core, commons, tree): BSD license; verified guest compatibility rewrites.
+D8 from Android Build Tools 35.0.0: its complete bundled LICENSE is supplied. Android API 35 stubs are used by the local compiler.
+
+Other bridge component notices, including the AssetStudio MIT notice for the RE4 texture decoder, are retained in third_party/licenses. Existing bridge source and provenance are supplied. Third-party code retains its original license. The public source package contains no signing key or original game fixtures.

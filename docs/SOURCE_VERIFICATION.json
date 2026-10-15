@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "candidate_sha256": "7c0cc468d4556917ebb8740e5772ecefa171b37cbf10459e40482e402048ae10",
+  "source_sha256": "5c1cfec71300c7acefc9f8a4a711c6cbfec6613d1dfd41fcab2871c9b2ee4e20",
+  "matched_build_inputs": 1459,
+  "executable_inputs_changed_since_independent_rebuild": 0,
+  "scope": "Every accepted APK build input is present byte-for-byte in the release source archive. Only release documents/evidence changed since the independent rebuild."
+}

@@ -1,0 +1,24 @@
+Omni Player 0.4.2 public source
+
+The source package builds the public original-download player without original executable, audio or level payloads. It includes compatibility host APKs with the accepted decorative UI artwork and native/compiler binaries so a standard player rebuild does not need to reconstruct every historical standalone bridge.
+
+On Linux, install Java 17 or newer and Android SDK Platform 35 / Build Tools 35.0.0. Set ANDROID_JAR to platforms/android-35/android.jar and ANDROID_BUILD_TOOLS to build-tools/35.0.0. Run:
+  python3 tools/build.py
+The build creates a local signing identity if none exists. The official release signing key is deliberately absent. A locally signed build does not replace an installed official build with its different certificate.
+
+The source trees for the preserved compatibility runtimes are in bridge-sources/. The exact compatibility APK inputs and their hashes are in integration/. tools/build_integrations.py applies the common lifecycle layer and produces the isolated title runtimes. Preparation scripts contain conversion logic and content hashes, not game resources.
+
+To rebuild preparation libraries, use the official Android NDK r27c and set ANDROID_NDK_HOME to its directory. Run:
+  python3 public-tools/build_native.py
+It builds the supplied source archives under build-native/, links the JNI service and packages the isolated Python runtime. This requires normal Linux C build dependencies, make, autoconf-generated configure support, Java and the SDK paths above. No game data is needed.
+
+To rebuild only the Java guest compiler:
+  python3 public-tools/build_compiler.py
+
+To rebuild the ExEn native runtime, install Zig 0.15.2, open bridge-sources/m-banjo/native and run:
+  zig build -Doptimize=ReleaseFast -Dtarget=aarch64-linux-android -Dstrip=true --prefix zig-out-android
+Copy zig-out-android/lib/libbanjo_exen.so to native/lib/arm64-v8a/libbanjoexen.so, then rebuild the APK. The original simulator font is read from verified per-device support, installed automatically on first use or supplied through an offline runtime import.
+
+The third_party/ directory includes applicable notices, source archives, exact ARM64 static libraries for relinking, and dependency hashes. No additional restriction is imposed on modifying or rebuilding the LGPL components. The public APK and source archive must be distributed with these notices and corresponding source obligations.
+
+Private conversion comparison fixtures, emulator test APKs, original game packages, signing keys and historical payload-containing APKs are excluded from this public source package. VERIFICATION.txt distinguishes host checks, emulator checks and owner-reported gameplay.

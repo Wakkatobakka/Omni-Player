@@ -1,0 +1,27 @@
+PUBLIC RELEASE — 2026-10-14 — tag v0.4.2
+This release promotes the accepted 0.4.2 APK unchanged.
+
+Omni Player 0.4.2 — original-download bridge expansion
+
+• Added persistent original-file rules for finished bridges, inferred from embedded MOD/JAR/EXN files or supplied as assets/omni-import.properties.
+• Upgrades existing generic bridge registrations in place. Removing/reloading a game keeps its bridge and save directory. Shared Micro3D code alone cannot identify Spider-Man.
+• Recovers complete CRC-verified APK entries from the supplied interrupted Spider-Man checkpoint. Incomplete data stays rejected and the recovery is reported.
+• Automatically fetches/verifies ExEn platform support on first use, caches it for offline reuse, and repairs missing Banjo support before launch. Adds Android INTERNET permission for this runtime fetch; no game downloads or telemetry.
+• Load Game routes APKs and named checkpoint ZIPs to bridge installation. Reports enumerate the installed catalog instead of claiming three legacy profiles.
+• Preserves v3 art, title runtimes and controls, original edition checks, saved games and all 0.4.1 import repairs.
+
+Host validation covers actual Spider-Man source files, upgrade/remove/restart/reimport, original collection intake, and automatic ExEn setup. Owner phone acceptance recorded on 2026-10-14 for this exact APK: every game loads/runs and visuals are accepted; ExEn intake and Duke bridge/original reimport work.
+
+Historical 0.4.1 repair notes follow:
+
+Omni Player 0.4.1 — repairs following owner feedback on 0.4.0
+
+• Restored all 28 accepted v3 library icons byte for byte and the original title-screen icon resources. Icons are available immediately after an update, without requiring a successful new import.
+• Replaced the desktop-only exact DEX byte-hash gate with internal checksum and expected class-inventory checks for freshly compiled verified originals. Device-specific output hashes are retained in local receipts. Existing prepared code is reused only when it matches a known desktop output; other code is regenerated from the verified original.
+• Versioned preparation/compiler caches prevent old recipes from surviving the update.
+• A bad nested archive is reported without aborting compatible sibling games. Per-title preparation failures are collected, and successful imports remain committed.
+• Removed the unused Earthworm Jim MIF requirement and Katamari archived config.dat requirement from both catalog and runtime controller. Original executable and gameplay-resource fingerprints remain exact. Katamari continues to create/read its own phone-local save.
+• Recognized the supplied Japanese Dirge starter so missing complete-English inputs are explained correctly.
+• Preserved app/signing identity, all game/save identities, compact row layout, platform-first labels and controls.
+
+Host validation covers the original Qualcomm archive, preserved originals across all supported platforms, repeat imports, v3 migration and save sentinels. This is a test build; no 0.4.1 phone execution or completed campaigns are claimed.

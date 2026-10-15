@@ -1,0 +1,15 @@
+OMNI PLAYER 0.4.2 — VERIFICATION SCOPE
+
+PASS: 164 production Java original-intake checks across all 25 built-in editions, with actual Qualcomm archive traversal, native archive/audio conversion, original compilation, save sentinels, repeated imports and partial-batch handling. Qualcomm imports all five supported exact editions despite the unrelated corrupt RAR.
+
+PASS: 21 bridge-original checks use the actual supplied Spider-Man APK, damaged checkpoint and Internet Archive ZIP. Coverage: persistent registration; remove/restart/original reimport; preserved save bytes and IDs; import with the game directory absent; mismatched executable rejected; old 0.4.1 registration migration; existing game launch preparation; CRC-verified complete APK recovery; unsafe checkpoint rejection; explicit import contracts; missing old runtime isolation.
+
+PASS: 7 ExEn checks cover original runtime/archive/component verification; offline reuse; corrupt cache repair; rejected replacement bytes; actionable network failure; a real HTTPS first-load download through the production importer on an empty installation; and automatic repair of an existing missing font. Transient server failure observed during development led to bounded automatic retries.
+
+Tests use controlled host adapters for Android package metadata/context, class loading and JNI. They exercise production Java logic and actual native preparation/compiler inputs. They do not execute an Android Activity. Earlier v3 resource/output, save-identity and UI comparisons remain historical evidence; unchanged source/asset hashes are checked for this candidate.
+
+Current APK identity, source bindings, signature, artwork preservation, content audit and independent source rebuild results are in verification/. Only records bound to this candidate count as current results. Original executable/audio/level/firmware bytes are excluded from the APK; accepted decorative v3 art remains.
+
+PASS: owner physical-phone acceptance on 2026-10-14. The owner reports every game loads/runs, approves the visuals, confirms ExEn intake, and confirms Duke bridge addition followed by original-download loading. The Samsung SM-S938U / Android 17 / ARM64 report identifies this exact build input ID. The final APK is byte-for-byte the tested candidate; 1,459 build inputs remain unchanged.
+
+The on-device report is a library/import snapshot; gameplay acceptance comes from the accompanying owner statement. Older removed imports and the retained 0.4.1 ExEn error are history. No automated Android harness run or completed-campaign claim is added.
