@@ -32,22 +32,8 @@ This release retains the accepted compact library, artwork and title controls. I
 
 See [release notes](RELEASE_NOTES.txt), [verification](VERIFICATION.txt) and [supported editions](SUPPORTED_GAMES.txt).
 
-> [!IMPORTANT]
-> ### 🎮 JUST HERE TO PLAY THE GAMES?
->
-> **YOU CAN IGNORE EVERYTHING BELOW THIS LINE.**
->
-> Seriously. You don't need to build anything, understand bridge contracts, or touch source code.
->
-> Download the APK, supply your supported game files, and enjoy.
->
-> Everything below is for developers, contributors, and people who enjoy staring into the technological abyss.
-
-
 ## Source and notices
 
-Download **Omni_Player_v0.4.2_PUBLIC_SOURCE.zip** from the release assets for the complete public build source and third-party component sources/notices. GitHub's automatic “Source code” downloads contain this small repository; use the explicitly named PUBLIC_SOURCE asset to rebuild the player.
-
-[Build instructions](BUILDING.txt) · [Component notices](THIRD_PARTY_NOTICES.txt) · [Bridge import contract](docs/BRIDGE_IMPORT_CONTRACT.md)
+[Component notices](THIRD_PARTY_NOTICES.txt)
 
 Original game executable, audio, level and firmware payloads are not bundled in the public player. Decorative title/icon artwork is retained. Third-party components retain their respective licenses; their notices are included in the corresponding source package.
