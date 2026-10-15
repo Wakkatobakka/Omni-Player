@@ -23,7 +23,9 @@ This feature is intended for compatible bridge APKs or checkpoint ZIPs. It is **
 
 Imported bridges remain installed even when their games are removed, allowing the original game files to be loaded again while retaining their existing save locations.
 
-I'm sure you can try feeding random shit into it, but its 9.9/10 it wont play if its not supported and it'll bog up for import history. Honestly this is only here because I forgot to remove this from the public facing portion.
+I'm sure you can try feeding random shit into it, but its 9.9/10 it wont play if its not supported and it'll bog up for import history.
+
+This is part of my development workflow, and I'll gradually remove it from the public player as things get more polished.
 
 
 ## Version 0.4.2
