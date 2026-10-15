@@ -11,8 +11,6 @@ Omni Player runs supported mobile games on **Android 11+ / ARM64** through their
 3. Open Omni, tap **Load Game**, and select a supported original game download.
 4. Tap the game and **Play**.
 
-Existing users can install over Omni to keep their library, bridges and saves.
-
 Game files are supplied by you. Keep multi-file games in their original ZIP/RAR/7z archive. Supported standalone JAR and EXN files also work. Check [supported editions](SUPPORTED_GAMES.txt) when choosing a download.
 
 ExEn prepares its verified platform runtime automatically on first use; connect once, then use the offline cache. The original EXEN-V2 Emulator ZIP can also be supplied for offline setup.
@@ -30,7 +28,7 @@ I'm sure you can try feeding random shit into it, but its 9.9/10 it wont play if
 
 ## Version 0.4.2
 
-This release retains the accepted compact library, artwork and title controls. It fixes original-download recognition after bridge expansion and automates ExEn setup. A game being bridge being available does not mean the entire game is playable. These are all still ongoing recoveries unless stated otherwise. This build reflects that after checking that every game loads and runs.
+This release retains the accepted compact library, artwork and title controls. It fixes original-download recognition after bridge expansion and automates ExEn setup. A game having a bridge available does not mean the entire game is playable. These are all still ongoing recoveries unless stated otherwise. This build reflects that after checking that every game loads and runs.
 
 See [release notes](RELEASE_NOTES.txt), [verification](VERIFICATION.txt) and [supported editions](SUPPORTED_GAMES.txt).
 
