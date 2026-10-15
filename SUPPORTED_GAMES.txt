@@ -82,4 +82,4 @@ Wolfenstein RPG
 
 Load Game accepts matching ZIP/RAR/7z downloads and supported standalone J2ME JARs. Rename the archive if you like; matching uses its contents. Finished bridge APKs/checkpoint ZIPs can use Add finished bridges; selected APKs and named checkpoint ZIPs also route there from Load Game.
 
-The owner accepted this release after checking every game loads and runs. See VERIFICATION.txt for the recorded scope. Duke Nukem 3D and Spider-Man 2 3D are separately added bridges, not bundled catalog entries.
+The owner accepted this release after checking every game loads and runs. See VERIFICATION.txt for the recorded scope.
