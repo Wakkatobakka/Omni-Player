@@ -15,7 +15,7 @@ Game files are supplied by you. Keep multi-file games in their original ZIP/RAR/
 
 ExEn prepares its verified platform runtime automatically on first use; connect once, then use the offline cache. The original EXEN-V2 Emulator ZIP can also be supplied for offline setup.
 
-## Absolutely Irrelevant for everyone except myself: Adding More Bridges
+## Absolutely Irrelevant for everyone except myself for now: Adding More Bridges
 
 Omni Player supports importing additional finished game bridges through **Menu → Add finished bridges…**
 
@@ -25,7 +25,7 @@ Imported bridges remain installed even when their games are removed, allowing th
 
 I'm sure you can try feeding random shit into it, but its 9.9/10 it wont play if its not supported and it'll bog up for import history.
 
-This is part of my development workflow, and I'll gradually remove it from the public player as things get more polished.
+This is part of my development workflow, and I'll gradually retire it from the public facing build and replace it with a cleaner end user experience, as things get more polished.
 
 
 ## Version 0.4.2
