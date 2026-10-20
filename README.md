@@ -1,3 +1,5 @@
+![Omni Player](./omni_player_social_preview_1280x640.jpg)
+
 # Omni Player
 
 Your games, together.
