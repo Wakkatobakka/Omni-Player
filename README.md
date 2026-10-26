@@ -37,6 +37,8 @@ A working bridge does not mean every part of a game is bug-free. Bugs and progre
 
 Report problems on the [Issues page](https://github.com/Wakkatobakka/Omni-Player/issues). Include the game and edition, Omni version, Android device, what happened, and a saved report or short recording where possible.
 
+**Widescreen support:** Widescreen layouts aren't currently supported. There's an open request on [GitHub Issues](https://github.com/Wakkatobakka/Omni-Player/issues), I'm looking into it but I haven't committed to adding it.
+
 ## Why I'm doing this
 
 This is a one-person hobby, working with AI by directing, testing and iterating around my job and family.
