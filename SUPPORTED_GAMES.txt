@@ -1,85 +1,16 @@
-OMNI PLAYER 0.4.2 — SUPPORTED ORIGINAL EDITIONS
+OMNI PLAYER — SUPPORTED GAMES AND ORIGINAL FILES
 
-24 games / 25 editions. These are the built-in profiles. Match the platform and edition when choosing the original download. A different handset, translation or game revision may need another bridge. Game files are supplied by the player.
+The maintained game guide has moved to:
+https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md
 
-Banjo-Kazooie: Grunty’s Revenge Missions
-  ExEn · English
-  Load the original Banjo EXN; verified ExEn setup is automatic. Internet is needed once, or supply the original EXEN-V2 Emulator ZIP offline.
+Search the same guide on the website:
+https://wakkatobakka.github.io/#games
 
-Biohazard: The Episodes
-  DoJa · Japanese · Offline
+The guide lists supported platforms/editions, original filenames, source links
+and import instructions. Both links stay the same as the collection grows.
 
-BioShock 3D
-  BREW · English
+Public beta downloads, bridge versions, changes and notices:
+https://github.com/Wakkatobakka/Omni-Player/releases
 
-Chokkan Crash
-  DoJa · Japanese
-
-Contra 4 Redux
-  BREW · English
-
-DeadShot
-  DoJa · English
-
-Digital Devil Story: Megami Tensei
-  J2ME · English
-
-Dirge of Cerberus: Lost Episode
-  DoJa · English patch
-  Requires the complete English 1.0 package, descriptor, scratchpad and all 15 SD chapter JARs.
-
-DOOM RPG
-  BREW · English
-
-Earthworm Jim: Special Edition
-  BREW · English
-
-Final Fantasy VII: Snowboarding
-  DoJa · English · Offline
-
-Mega Man: Rush Marine
-  BREW · English · 1.1.11
-
-Metal Gear Solid Mobile
-  BREW · English
-
-Monster Hunter i
-  DoJa · English patch
-
-Monster Hunter i
-  DoJa · Japanese
-
-Nowhere
-  J2ME · English · Sony Ericsson K790
-
-Orcs & Elves II
-  BREW · English
-
-Ratchet & Clank: Going Mobile
-  J2ME · English
-
-Resident Evil 4
-  Zeebo / BREW · Spanish / Portuguese
-
-Resident Evil: Genesis
-  BREW · English
-
-Rockman: Great Adventure on 5 Islands
-  DoJa · English patch
-
-Rolling with Katamari
-  BREW · English · Known early stopper
-  Known early hard stop remains.
-
-Sonic Jump
-  DoJa · English patch
-
-The Witcher: Crimson Trail
-  J2ME · Russian · Nokia N73
-
-Wolfenstein RPG
-  BREW · English · 7.1.32
-
-Load Game accepts matching ZIP/RAR/7z downloads and supported standalone J2ME JARs. Rename the archive if you like; matching uses its contents. Finished bridge APKs/checkpoint ZIPs can use Add finished bridges; selected APKs and named checkpoint ZIPs also route there from Load Game.
-
-The owner accepted this release after checking every game loads and runs. See VERIFICATION.txt for the recorded scope.
+This file remains as a pointer for older links; the game list is maintained
+only in GAME_GUIDE.md.

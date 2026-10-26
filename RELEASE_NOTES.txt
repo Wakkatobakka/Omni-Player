@@ -1,3 +1,19 @@
+OMNI PLAYER — RELEASE HISTORY
+
+Current and historical public release notes live with their APKs and notices:
+https://github.com/Wakkatobakka/Omni-Player/releases
+
+Public builds are beta/prerelease builds while development continues.
+
+The maintained game/edition/source guide is:
+https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md
+
+This file remains as a pointer for older links. New release notes are maintained
+on GitHub Releases, rather than copied into a second changelog.
+
+ARCHIVED REPOSITORY NOTES — retained unchanged for historical reference
+These notes describe older builds, not the current public beta.
+
 PUBLIC RELEASE — 2026-10-14 — tag v0.4.2
 This release promotes the accepted 0.4.2 APK unchanged.
 
