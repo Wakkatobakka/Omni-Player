@@ -276,7 +276,7 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Platform: BREW
 - Edition: English · recovered chapters
 - Files: `khvc_original.zip`
-- Source: KH V CAST Emulation Resources (Google Drive) (https://drive.google.com/drive/folders/16KNTPG7pN6VMEJZZ22TDgg7wrOJqWs6V)
+- Source: [KH V CAST Emulation Resources (Google Drive)](https://drive.google.com/drive/folders/16KNTPG7pN6VMEJZZ22TDgg7wrOJqWs6V)
 - Source status: Original download location identified. Public accessibility has not been independently verified.
 - Import: Use the fuller original archive, including the Swerve engine, descriptor and chapter data. The separate engine-only ZIP or smaller Chapter 1 download is not an equivalent complete input.
 
