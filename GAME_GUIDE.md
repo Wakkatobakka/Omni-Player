@@ -4,7 +4,7 @@ Find your game below, match its platform and edition, then load the original fil
 
 [Download public beta builds](https://github.com/Wakkatobakka/Omni-Player/releases) · [Search this guide on the website](https://wakkatobakka.github.io/#games) · [Setup and help](README.md)
 
-This is the maintained game guide. It was assembled against public beta 0.5.9. Bridge versions and changes for each build live on its release page. A supported import is not a guarantee of complete, bug-free play.
+This is the maintained game guide. It covers the 57 games supported in public beta 0.5.18. Bridge versions and changes for each build live on its release page. A supported import is not a guarantee of complete, bug-free play.
 
 **Import basics:** keep multi-file games in their original ZIP/RAR/7z archive. Load supported standalone JAR or EXN files directly. Follow any game-specific exception below. ExEn needs one-time platform setup; internet is needed once, or supply the original EXEN-V2 Emulator ZIP for offline setup.
 
@@ -36,6 +36,30 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: [Earlier Dedomil lead](https://dedomil.net/games/3859/screens)
 - Source status: Unconfirmed lead; not a verified source for this exact JAR.
 - Import: Load the matching standalone JAR. Other handset editions are not interchangeable.
+
+
+## Ashen
+
+<!-- game-id: ashen -->
+
+- Platform: N-Gage
+- Edition: Classic N-Gage edition
+- Files: `Ashen.rar`
+- Source: [N-Gage Cracked Games collection](https://archive.org/details/ngagecrackedgamescollection)
+- Source status: Recorded collection source; its inventory names this archive. Exact bytes have not been reverified.
+- Import: Extract `Ashen.rar` from the outer collection, then load that game archive intact. Omni prepares the required platform support automatically.
+
+
+## Baldur's Gate
+
+<!-- game-id: baldur-s-gate -->
+
+- Platform: J2ME
+- Edition: English · v1.0.0
+- Files: `BaldursGate-176.jar`
+- Source: [Browse J2ME listings](https://www.myabandonware.com/browse/platform/j2me/)
+- Source status: Archive search; exact acquisition page not recovered.
+- Import: Load the matching standalone JAR. The PC, console and other handset editions are different inputs.
 
 
 ## Banjo-Kazooie: Grunty’s Revenge Missions
@@ -72,6 +96,18 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: [Browse BREW listings](https://www.myabandonware.com/browse/platform/brew/)
 - Source status: Archive search; exact acquisition page not recovered.
 - Import: Use the matching BREW package, not a Java edition. Keep the RAR intact. The Qualcomm collection also contains BioShock variants, but those archive names alone do not establish a match.
+
+
+## Bounce Boing Voyage
+
+<!-- game-id: bounce-boing-voyage -->
+
+- Platform: N-Gage 2.0
+- Edition: Nokia 5320 compatibility profile
+- Files: `Bounce.Boing.Voyage.n-gage`
+- Source: [N-Gage 2.0 full-game collection](https://archive.org/download/Dance.Fabulous.nGage/N-Gage%202.0/Games/Full/)
+- Source status: Recorded collection source; the named full-game package is listed. Exact bytes have not been reverified.
+- Import: Select the full `.n-gage` package directly in Load Game. Omni prepares the required platform support automatically; use the Full collection rather than its Trial downloads.
 
 
 ## Brothers in Arms
@@ -120,6 +156,43 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: [Open ExEn listing](https://www.myabandonware.com/game/crash-bandicoot-yy7)
 - Source status: Matching listing; historical download origin and current file identity unconfirmed.
 - Import: Choose the ExEn download, then Load Game → select the EXN. Omni prepares ExEn platform support on first use; connect once, then reuse its offline cache.
+
+
+## Crash Nitro Kart
+
+<!-- game-id: crash-nitro-kart -->
+
+- Platform: N-Gage
+- Edition: Classic N-Gage edition
+- Files: `Crash Nitro Kart.rar`
+- Source: [N-Gage Cracked Games collection](https://archive.org/details/ngagecrackedgamescollection)
+- Source status: Recorded collection source; its inventory names this archive. Exact bytes have not been reverified.
+- Import: Extract the named game archive from the outer collection and load it intact. This is the classic N-Gage game; Crash Bandicoot Nitro Kart 3D for N-Gage 2.0 is a different release.
+
+
+## DDR SA
+
+<!-- game-id: ddr-sa -->
+
+- Platform: J2ME
+- Edition: Original v0.4 · boxon · 2006
+- Files: `DDRSA.jar`
+- Source: [boxon's original DDR SA page](https://kumisuke.jp/boxon/gamessa/ddrsa.htm)
+- Source status: Original author's download; its JAR is byte-identical to the supplied original by SHA-256.
+- Import: Load the original `DDRSA.jar`. Omni supplies the original Ni-hao! starter-song content automatically and includes the separately identified Night Shift and Pocket Circuit bridge compositions. No separate starter-song setup is required.
+- Credits: boxon created the original game; TAM Music Factory supplied the original sample MIDI. Wakka's bridge restoration and added compositions are identified separately.
+
+
+## Dead Rising
+
+<!-- game-id: dead-rising -->
+
+- Platform: J2ME
+- Edition: Original v1.0.1
+- Files: `DeadRising.jar`
+- Source: [Browse J2ME listings](https://www.myabandonware.com/browse/platform/j2me/)
+- Source status: Archive search; exact acquisition page not recovered.
+- Import: Load the matching standalone JAR. PC, console, Android and other handset releases are different inputs.
 
 
 ## DeadShot
@@ -330,6 +403,18 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Import: Choose the ExEn download, then Load Game → select the EXN. Omni prepares ExEn platform support on first use; connect once, then reuse its offline cache.
 
 
+## Need for Speed Carbon
+
+<!-- game-id: need-for-speed-carbon -->
+
+- Platform: Zeebo / BREW
+- Edition: Portuguese (Brazil) · Domine a Cidade
+- Files: `Need For Speed - Carbon - Domine a Cidade.zip`
+- Source: [Zeebo collection](https://archive.org/details/zeebo-romset-and-devtools)
+- Source status: Collection candidate only; OpenZeebo identifies `276121.7z` as this game, but its identity against the supplied ZIP is unconfirmed.
+- Import: Load the matching complete Zeebo/BREW archive. PC, console, Android and J2ME editions are different inputs.
+
+
 ## Nowhere
 
 <!-- game-id: nowhere -->
@@ -352,6 +437,18 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: [Qualcomm BREW collection](https://archive.org/download/qualcomm-brew-games/)
 - Source status: Collection candidate only; the recorded inventory includes brew2018/oe2.zip, but exact input identity is unconfirmed.
 - Import: Look for `brew2018/oe2.zip`. Match the BREW edition and keep the original archive intact.
+
+
+## Pocket Kingdom: Own the World
+
+<!-- game-id: pocket-kingdom-own-the-world -->
+
+- Platform: N-Gage
+- Edition: USA / Europe · English, French, German, Spanish, Italian · 08.11.2004
+- Files: `Pocket-Kingdom-Own-the-World_N-Gage_EN-FR-DE-ES-IT_USA-Europe-EnFrDeEsIt-08112004.zip`
+- Source: [Open N-Gage listing](https://www.myabandonware.com/game/pocket-kingdom-own-the-world-ms1)
+- Source status: Owner-confirmed acquisition page; its listed region, languages and date match the supplied filename.
+- Import: Choose the USA/Europe 08.11.2004 N-Gage download matching the named ZIP, then load it intact. The separately listed Review Kit packages are different downloads.
 
 
 ## Quake II
@@ -388,6 +485,18 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: [Previously used Zeebo archive](https://archive.org/details/zeebo-arquivista)
 - Source status: Recorded source hub; exact acquisition file URL not recovered.
 - Import: Choose the Zeebo edition. PC, console, Android and other mobile releases are different inputs.
+
+
+## Resident Evil: Degeneration
+
+<!-- game-id: resident-evil-degeneration -->
+
+- Platform: N-Gage 2.0
+- Edition: Nokia 5320 compatibility profile
+- Files: `Resident%20Evil%20Degeneration.n-gage` was the supplied filename; the collection lists `Resident.Evil.Degeneration.n-gage`.
+- Source: [N-Gage 2.0 full-game collection](https://archive.org/download/Dance.Fabulous.nGage/N-Gage%202.0/Games/Full/)
+- Source status: Matching full-game listing; the exact acquisition file has not been byte-matched to the supplied copy.
+- Import: Load the matching full `.n-gage` package directly. Omni prepares the required platform support automatically. A J2ME Resident Evil: Degeneration JAR is a different edition.
 
 
 ## Resident Evil: Genesis
@@ -450,6 +559,18 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Import: Keep the complete original DoJa archive together. The J2ME game is a different release.
 
 
+## Sonic N
+
+<!-- game-id: sonic-n -->
+
+- Platform: N-Gage
+- Edition: Classic N-Gage edition
+- Files: `SonicN.rar`
+- Source: [N-Gage Cracked Games collection](https://archive.org/details/ngagecrackedgamescollection)
+- Source status: Recorded collection source; its inventory names this archive. Exact bytes have not been reverified.
+- Import: Extract `SonicN.rar` from the outer collection, then load that game archive intact. Omni prepares the required platform support automatically.
+
+
 ## South Park
 
 <!-- game-id: south-park -->
@@ -484,6 +605,54 @@ This is the maintained game guide. It was assembled against public beta 0.5.9. B
 - Source: Exact download page not recovered.
 - Source status: Filename branding only: Mastiwap.Com is present in the filename, but that does not prove the download origin.
 - Import: Load the matching standalone JAR.
+
+
+## Star Wars: The Force Unleashed
+
+<!-- game-id: star-wars-the-force-unleashed -->
+
+- Platform: N-Gage 2.0
+- Edition: Nokia 5320 compatibility profile
+- Files: `Star.Wars.The.Force.Unleashed.n-gage`
+- Source: [N-Gage 2.0 full-game collection](https://archive.org/download/Dance.Fabulous.nGage/N-Gage%202.0/Games/Full/)
+- Source status: Recorded collection source; the named full-game package is listed. Exact bytes have not been reverified.
+- Import: Load the full `.n-gage` package directly. Omni prepares the required platform support automatically; J2ME, PC and console releases are different inputs.
+
+
+## TechWars
+
+<!-- game-id: techwars -->
+
+- Platform: N-Gage
+- Edition: Supported Symbian / classic N-Gage package
+- Files: `TechWars.rar`
+- Source: [N-Gage Cracked Games collection](https://archive.org/details/ngagecrackedgamescollection)
+- Source status: Recorded collection source; its inventory names this archive. Exact bytes have not been reverified.
+- Import: Extract `TechWars.rar` from the outer collection and load that game archive intact. Omni handles its compatibility preparation automatically.
+
+
+## The Elder Scrolls IV: Oblivion
+
+<!-- game-id: the-elder-scrolls-iv-oblivion -->
+
+- Platform: J2ME
+- Edition: English · v1.0.10 · 240×320
+- Files: `the_elder_scrolls_oblivion_240x320-17026.jar`
+- Source: [Browse J2ME listings](https://www.myabandonware.com/browse/platform/j2me/)
+- Source status: Archive search; exact acquisition page not recovered.
+- Import: Load the supported original English JAR. Omni applies the restored menu music and combat sounds automatically; players do not need to find or assemble a Chinese audio-donor package.
+
+
+## The Elder Scrolls Travels: Shadowkey
+
+<!-- game-id: the-elder-scrolls-travels-shadowkey -->
+
+- Platform: N-Gage
+- Edition: Classic N-Gage edition
+- Files: `The Elder Scrolls Travels - Shadowkey.rar`
+- Source: [N-Gage Cracked Games collection](https://archive.org/details/ngagecrackedgamescollection)
+- Source status: Recorded collection source; its inventory names this archive. Exact bytes have not been reverified.
+- Import: Extract the named game archive from the outer collection, then load it intact. Omni prepares the required platform support automatically. Oblivion's J2ME JAR is a separate game.
 
 
 ## The Sims 2: Pets
