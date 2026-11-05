@@ -4,7 +4,7 @@
 
 **Your games, together.**
 
-Omni Player runs supported old mobile games on **Android 11+ / ARM64**, bringing their individual compatibility bridges together in one Android app. The public collection covers BREW, DoJa, J2ME, ExEn and Zeebo/BREW.
+Omni Player runs supported old mobile games on **Android 11+ / ARM64**, bringing their individual compatibility bridges together in one Android app. The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage and N-Gage 2.0.
 
 **[Download public beta builds](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, original files and sources](GAME_GUIDE.md) · [Website](https://wakkatobakka.github.io/#games)**
 
@@ -17,15 +17,19 @@ Omni Player runs supported old mobile games on **Android 11+ / ARM64**, bringing
 
 The bridges are included. You do not need separate bridge downloads.
 
+Play with touch controls and haptic feedback, or connect a Bluetooth controller and customize its button mapping.
+
 **Updating?** Install the new public APK over your existing public Omni installation to retain its library and saves.
 
 ## Getting the right original files
 
 The [game guide](GAME_GUIDE.md) is the maintained list of supported titles, editions, recognizable filenames, source links and import instructions. You can also [search it on the website](https://wakkatobakka.github.io/#games).
 
-Keep multi-file games in their original ZIP/RAR/7z archive. Supported standalone JAR and EXN files also work. Follow any exception in the game's guide entry; the same title on a different phone platform may be a different game.
+Keep multi-file games in their original ZIP/RAR/7z archive. Supported standalone JAR, EXN and `.n-gage` files also work. Follow any exception in the game's guide entry; the same title on a different phone platform may be a different game.
 
 ExEn prepares its verified platform support automatically on first use. Connect once, then reuse the offline cache. The original EXEN-V2 Emulator ZIP can also be supplied for offline setup.
+
+Classic N-Gage and N-Gage 2.0 platform support is prepared automatically on first use. Connect once for the shared setup; Omni reuses it offline afterward. Choose the matching original game archive or `.n-gage` package listed in the guide.
 
 Source records distinguish confirmed origins, matching listings and missing information. Recovery, preservation and translation credits remain with the people who did that work.
 
