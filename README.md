@@ -41,7 +41,7 @@ Every included game is personally playtested through its tutorial and into the f
 
 Report problems on the [Issues page](https://github.com/Wakkatobakka/Omni-Player/issues). Include the game and edition, Omni version, Android device, what happened, and a saved report or short recording where possible.
 
-**Widescreen support:** Widescreen layouts should now be suppored. There's was an open request on [GitHub Issues](https://github.com/Wakkatobakka/Omni-Player/issues), If for some reason your device doesn't want to play nice with the layout just let me know.
+**Widescreen support:** Widescreen layouts should now be suppored. There was an open request on [GitHub Issues](https://github.com/Wakkatobakka/Omni-Player/issues), If for some reason your device doesn't want to play nice with the layout just let me know.
 
 ## Why I'm doing this
 
