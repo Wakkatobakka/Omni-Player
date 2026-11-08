@@ -37,7 +37,7 @@ Source records distinguish confirmed origins, matching listings and missing info
 
 Current public builds are marked as **prereleases** on GitHub while development and testing continue. Use the [Releases page](https://github.com/Wakkatobakka/Omni-Player/releases) for downloads, included bridge versions, changes and the notices belonging to each build.
 
-A working bridge does not mean every part of a game is bug-free. Bugs and progression blockers can remain; the guide includes known limitations where recorded.
+Every included game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion hasn't been verified for every title, so later bugs or progression issues may still exist.
 
 Report problems on the [Issues page](https://github.com/Wakkatobakka/Omni-Player/issues). Include the game and edition, Omni version, Android device, what happened, and a saved report or short recording where possible.
 
