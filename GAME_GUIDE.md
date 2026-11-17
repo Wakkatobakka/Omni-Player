@@ -1,3 +1,5 @@
+![Omni Player — Game guide](./assets/omni/guide-header.png)
+
 # Omni Player — games, files and sources
 
 Find your game below, match its platform and edition, then load the original file in Omni. The bridges are included in the player; original game files are supplied by you.

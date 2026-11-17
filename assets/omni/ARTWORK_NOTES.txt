@@ -1,0 +1,27 @@
+OMNI PLAYER / DIGITAL MENU VISUALS
+
+Direction: late-1990s / early-2000s game menus, chunky pixels, navy and
+cobalt panels, cyan edges and orange selection accents.
+
+Hero artwork was generated with AI from the approved Omni visual concept.
+The gameplay strip contains unaltered recorded frames from Wakkatobakka's
+public gameplay hub: Resident Evil: Genesis (BREW), FFVII Snowboarding
+(DoJa), and Sonic Jump (DoJa). Screens are fitted with their aspect ratios
+preserved. No generated game scenes are used in the finished README.
+
+Recordings and original frames:
+https://wakkatobakka.github.io/videos/omni/resident-evil-genesis.mp4
+https://wakkatobakka.github.io/videos/omni/ffvii-snowboarding.mp4
+https://wakkatobakka.github.io/videos/omni/sonic-jump.mp4
+https://wakkatobakka.github.io/assets/gameplay/resident-evil-genesis.jpg
+https://wakkatobakka.github.io/assets/gameplay/ffvii-snowboarding.jpg
+https://wakkatobakka.github.io/assets/gameplay/sonic-jump.jpg
+
+Game images and names retain their respective ownership.
+
+Graphical buttons, framing and section titles use outlines from
+Press Start 2P by CodeMan38. License: SIL Open Font License 1.1; see
+FONT_LICENSE.txt. Ordinary README text stays native and selectable.
+
+Keep image paths and files together. These graphics work in GitHub READMEs
+without scripts, custom CSS, hosted fonts or external badge services.
