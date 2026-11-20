@@ -57,7 +57,7 @@ This list covers the 58 games outside the iPhone collection in the APK attached 
 | [Resident Evil 4](#game-resident-evil-4) | Zeebo / BREW · Spanish / Portuguese | [Choose Zeebo download](https://www.myabandonware.com/game/resident-evil-4-mobile-edition-t3v) |
 | [Resident Evil: Degeneration](#game-resident-evil-degeneration) | N-Gage 2.0 · Nokia 5320 compatibility profile | [Download .n-gage](https://archive.org/download/Dance.Fabulous.nGage/N-Gage%202.0/Games/Full/Resident.Evil.Degeneration.n-gage) |
 | [Resident Evil: Genesis](#game-resident-evil-genesis) | BREW · English | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FREGenesis.rar) |
-| [Resident Evil: Uprising](#game-resident-evil-uprising) | J2ME · Glu Mobile · v1.0.0 | No verified download yet |
+| [Resident Evil: Uprising](#game-resident-evil-uprising) | J2ME · Glu Mobile · v1.0.0 · English · 240×320 | [Choose Phoneky JAR](https://mobile.phoneky.com/games/?s=download&id=j4j23480) |
 | [Rockman: Great Adventure on 5 Islands](#game-rockman-great-adventure-on-5-islands) | DoJa · English patch · Localized | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/rockman-dash-great-adventure-on-5-islands--ad429f85/index.html) |
 | [Rolling with Katamari](#game-rolling-with-katamari) | BREW · English | [Download BREW RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FKatamari.rar) |
 | [Silent Hill: Orphan](#game-silent-hill-orphan) | J2ME · 240×320 · six original languages | [Get silenthill.jar](https://www.mediafire.com/file/27xqe2zxd01caj5/silenthill.jar/file) |
@@ -592,11 +592,11 @@ SHA-256: `da6d5b6d7f0f9151e7d0471bb74e47504bd401ebfd896524bd6de882f2ee3af1`
 <!-- game-id: resident-evil-uprising -->
 
 - Platform: J2ME
-- Edition: Glu Mobile · v1.0.0
-- Files: `residentev_3lwb4anw.jar`
-- Source: No verified download yet
-- Source status: The matching JAR is 853,715 bytes. Other archived Uprising JARs checked differ from this edition.
-- Import: Load the matching JAR directly.
+- Edition: Glu Mobile · v1.0.0 · English · 240×320
+- Files: `residentev_3lwb4anw.jar` · 853,715 bytes
+- Source: [Choose Phoneky JAR](https://mobile.phoneky.com/games/?s=download&id=j4j23480)
+- Source status: The Phoneky download matches the saved Omni original byte for byte.
+- Import: On Phoneky, tap “Download Game,” then “Alternative Download Link” when the download box opens. Close any full-page ad and load the downloaded JAR directly in Omni.
 
 <details>
 <summary>Verify the matching original file</summary>
