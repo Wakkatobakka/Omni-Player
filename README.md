@@ -5,9 +5,12 @@
   <a href="https://wakkatobakka.github.io/"><img src="./assets/omni/explore-games-and-archives.png" width="49%" alt="Explore games &amp; archives on the Wakkatobakka website"></a>
 </p>
 
-<p align="center"><a href="./GAME_GUIDE.md">Game guide &amp; original files</a></p>
+<p align="center">
+  <a href="./GAME_GUIDE.md">Omni Game Guide</a> ·
+  <a href="https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game">Apple Bridge Game Guide (iPhone games)</a>
+</p>
 
-<p align="center"><strong>BREW · DoJa · J2ME · ExEn · Zeebo · N-Gage</strong></p>
+<p align="center"><strong>BREW · DoJa · J2ME · ExEn · Zeebo · N-Gage · iOS</strong></p>
 
 # Old mobile games. One Android home.
 
@@ -15,7 +18,9 @@ Omni Player brings supported old mobile games and their individual compatibility
 
 **Android 11+ / ARM64 · Public beta**
 
-The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage and N-Gage 2.0. Play with touch controls and haptic feedback, or connect a Bluetooth controller and customize its button mapping.
+The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage and N-Gage 2.0. Starting with [Omni Player v0.6.0](https://github.com/Wakkatobakka/Omni-Player/releases/tag/v0.6.0), you can also play supported early iPhone games from Apple Bridge.
+
+Play with touch controls and haptic feedback, or connect a Bluetooth controller and customize its button mapping.
 
 [Setup](#download-and-play) · [Original files](#getting-the-right-original-files) · [Updates & help](#public-betas-and-update-history)
 
@@ -34,7 +39,7 @@ The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage 
 ## ![Download and play](./assets/omni/get-playing.png)
 
 1. **Install Omni.** Open [Releases](https://github.com/Wakkatobakka/Omni-Player/releases) and download the APK from the newest public beta. Android may ask you to allow installs from your browser or file manager. Release assets also include the component notices for that build.
-2. **Find your original files.** Look up your game in the [game guide](GAME_GUIDE.md). Match its platform, language and edition.
+2. **Find your original files.** Use the [Apple Bridge Game Guide](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game) for iPhone games or the [Omni Game Guide](GAME_GUIDE.md) for the other platforms. Match the listed edition.
 3. **Load and play.** Open Omni, tap **Load Game**, select the original game file, then launch it from your library.
 
 The bridges are included. You do not need separate bridge downloads.
@@ -45,7 +50,8 @@ The bridges are included. You do not need separate bridge downloads.
 
 ## ![Getting the right original files](./assets/omni/original-files.png)
 
-The [game guide](GAME_GUIDE.md) is the maintained list of supported titles, editions, recognizable filenames, source links and import instructions. You can also [search it on the website](https://wakkatobakka.github.io/#games).
+- **iPhone games:** Find the matching original `.ipa` in the [Apple Bridge Game Guide](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game). In Omni, tap **Load Game** and select the complete IPA. [Apple Bridge](https://github.com/Wakkatobakka/Apple-Bridge) is also available as a standalone app.
+- **BREW, DoJa, J2ME, ExEn, Zeebo and N-Gage:** Find editions, filenames, sources and import notes in the [Omni Game Guide](GAME_GUIDE.md) or [search it on the website](https://wakkatobakka.github.io/#games).
 
 Keep multi-file games in their original **ZIP/RAR/7z archive**. Supported standalone **JAR**, **EXN** and **`.n-gage`** files also work. Follow any exception in the game's guide entry; the same title on a different phone platform may be a different game.
 
