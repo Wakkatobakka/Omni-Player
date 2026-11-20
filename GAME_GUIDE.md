@@ -18,18 +18,18 @@ This list covers the 58 games outside the iPhone collection in the APK attached 
 | [Age of Empires II Mobile](#game-age-of-empires-ii-mobile) | ExEn · English · V01.00.50 | [Choose ExEn download](https://www.myabandonware.com/game/age-of-empires-ii-mobile-wh8) |
 | [Age of Empires III](#game-age-of-empires-iii) | J2ME · English · Nokia 128×128 · v1.0.2 | [Download JAR](https://archive.org/download/HugeJavaMobileGameDump/Huge%20Java%20Mobile%20Game%20Dump%20%28mastiwap%20dir%203%20-%20nokia%29.zip/Nokia%20Games%2F128x128_s40%2FStrategy%2FAge%20of%20empires_3.jar) |
 | [Ashen](#game-ashen) | N-Gage · Classic N-Gage edition | [Download RAR](https://archive.org/download/ngagecrackedgamescollection/N-Gage%20cracked%20games%20collection.rar/N-Gage%20cracked%20games%20collection%2FAshen.rar) |
-| [Baldur's Gate](#game-baldur-s-gate) | J2ME · Sorrent · English · v1.0.0 · 176×208 | No verified download yet |
+| [Baldur's Gate](#game-baldur-s-gate) | J2ME · Sorrent · English · v1.0.0 · 176×208 | [Download matching JAR](https://archive.org/download/HugeJavaMobileGameDump/Huge%20Java%20Mobile%20Game%20Dump%20%28mastiwap%20dir%204%29.zip/Samsung%20Games%2FSamsung%20%28240x320%29%20Jar%20Games%2FBaldurs_Gate-j2me-samsung-%28240x320%29%20-%20Mastiwap.Com.jar) |
 | [Banjo-Kazooie: Grunty’s Revenge Missions](#game-banjo-kazooie-grunty-s-revenge-missions) | ExEn · English | [Choose ExEn download](https://www.myabandonware.com/game/banjo-kazooie-grunty-s-revenge-missions-yz7) |
 | [Biohazard: The Episodes](#game-biohazard-the-episodes) | DoJa · Japanese · offline edition | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/biohazard-the-episodes--76526ae6/index.html) |
 | [BioShock 3D](#game-bioshock-3d) | BREW · English · 176 BREW build | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FBioShock3D_176.rar) |
 | [Bounce Boing Voyage](#game-bounce-boing-voyage) | N-Gage 2.0 · Nokia 5320 compatibility profile | [Download .n-gage](https://archive.org/download/Dance.Fabulous.nGage/N-Gage%202.0/Games/Full/Bounce.Boing.Voyage.n-gage) |
 | [Brothers in Arms](#game-brothers-in-arms) | BREW · 240-screen BREW edition | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FBIA240.rar) |
 | [Chokkan Crash](#game-chokkan-crash) | DoJa · Japanese | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/chokkan-crash-bandicoot--881af37b/index.html) |
-| [Contra 4 Redux](#game-contra-4-redux) | BREW · English | No verified download yet |
+| [Contra 4 Redux](#game-contra-4-redux) | BREW · English | [Choose English BREW download](https://www.myabandonware.com/game/contra-4-wdz) |
 | [Crash Bandicoot](#game-crash-bandicoot) | ExEn · English · original v1.9 | [Choose ExEn download](https://www.myabandonware.com/game/crash-bandicoot-yy7) |
 | [Crash Nitro Kart](#game-crash-nitro-kart) | N-Gage · Classic N-Gage edition | [Download RAR](https://archive.org/download/ngagecrackedgamescollection/N-Gage%20cracked%20games%20collection.rar/N-Gage%20cracked%20games%20collection%2FCrash%20Nitro%20Kart.rar) |
 | [DDR SA](#game-ddr-sa) | J2ME · Original v0.4 · boxon · 2006 | [Download JAR from boxon](https://kumisuke.jp/boxon/gamessa/ddrsa/DDRSA.jar) |
-| [Dead Rising](#game-dead-rising) | J2ME · v1.0.1 · 176×208 | No verified download yet |
+| [Dead Rising](#game-dead-rising) | J2ME · v1.0.1 · 176×208 | [Choose 2 MB J2ME bundle](https://www.myabandonware.com/game/dead-rising-wc4) |
 | [DeadShot](#game-deadshot) | DoJa · English · Devil May Cry: DeadShot | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/devil-may-cry-deadshot--ae689f62/index.html) |
 | [Digital Devil Story: Megami Tensei](#game-digital-devil-story-megami-tensei) | J2ME · English | [Choose English J2ME](https://www.myabandonware.com/game/digital-devil-story-megami-tensei-9sz) |
 | [Dirge of Cerberus: Lost Episode](#game-dirge-of-cerberus-lost-episode) | DoJa · English patch · complete English 1.0 package | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/final-fantasy-7-dirge-of-cerberus-lost-episode--d29675e2/index.html) |
@@ -39,7 +39,7 @@ This list covers the 58 games outside the iPhone collection in the APK attached 
 | [Dragon Sword](#game-dragon-sword) | BREW · English · v1.0.0 · 240×320 | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FDragonSword.rar) |
 | [Driv3r](#game-driv3r) | BREW · BREW edition | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FDriv3r.rar) |
 | [Duke Nukem 3D](#game-duke-nukem-3d) | BREW · BREW edition | [Download RAR](https://archive.org/download/qualcomm-brew-games/Qualcomm%20BREW%20Games.zip/brew2010%2FDukeNukem3D_114.rar) |
-| [Earthworm Jim: Special Edition](#game-earthworm-jim-special-edition) | BREW · English | No verified download yet |
+| [Earthworm Jim: Special Edition](#game-earthworm-jim-special-edition) | BREW · English | [Choose English BREW download](https://www.myabandonware.com/game/earthworm-jim-special-edition-wa0) |
 | [Final Fantasy VII: Snowboarding](#game-final-fantasy-vii-snowboarding) | DoJa · English · offline edition | [Keitai World Launcher entry](https://wakkatobakka.github.io/doja-archive/games/final-fantasy-7-snowboarding--9d7097ec/index.html) |
 | [God of War: Betrayal](#game-god-of-war-betrayal) | J2ME · Nokia 352×416 · v1.4.58 · 6 languages | [Download multi-edition ZIP](https://archive.org/download/j2me-hipnosis/God%20of%20War%20-%20Betrayal.zip) |
 | [Kingdom Hearts V CAST](#game-kingdom-hearts-v-cast) | BREW · English · recovered chapters | [Download ZIP from Drive](https://drive.usercontent.google.com/download?id=15vA80gl_MJCKEUyAm8aFytDU8vwz0KiM&export=download) |
@@ -124,10 +124,10 @@ Import and first-time setup
 
 - Platform: J2ME
 - Edition: Sorrent · English · v1.0.0 · 176×208
-- Files: `BaldursGate-176.jar`
-- Source: No verified download yet
-- Source status: The matching JAR is 163,195 bytes. The current title listings I checked do not identify this exact copy.
-- Import: Load the matching JAR directly.
+- Files: `BaldursGate-176.jar` · 163,195 bytes
+- Source: [Download matching JAR](https://archive.org/download/HugeJavaMobileGameDump/Huge%20Java%20Mobile%20Game%20Dump%20%28mastiwap%20dir%204%29.zip/Samsung%20Games%2FSamsung%20%28240x320%29%20Jar%20Games%2FBaldurs_Gate-j2me-samsung-%28240x320%29%20-%20Mastiwap.Com.jar)
+- Source status: The archive JAR matches the saved Omni original byte for byte. Its archive filename includes Samsung 240×320.
+- Import: Load the linked JAR directly. Omni accepts this file with its archive filename.
 
 <details>
 <summary>Verify the matching original file</summary>
@@ -209,9 +209,9 @@ SHA-256: `4f37d6ceab62427d99f0b365985d89763a72b62a988c6d9cd5c8c1e921c5f153`
 - Platform: BREW
 - Edition: English
 - Files: `Contra-4_BREW_EN.zip`
-- Source: No verified download yet
-- Source status: The saved ZIP is 928,154 bytes. The original My Abandonware listing now shows a 930,193-byte BREW file. A match to Omni’s input is unconfirmed.
-- Import: Load the complete matching BREW ZIP intact.
+- Source: [Choose English BREW download](https://www.myabandonware.com/game/contra-4-wdz)
+- Source status: The current My Abandonware BREW download matches the original `Contra-4_BREW_EN.zip` from the saved download history byte for byte.
+- Import: Under **BREW version**, download the English game file and load the complete ZIP intact.
 
 <details>
 <summary>Verify the matching original file</summary>
@@ -260,10 +260,10 @@ SHA-256: `24a5132d74934da520c31dbdfcb31e434675fc8f4671daa95cb7050def9078c8`
 
 - Platform: J2ME
 - Edition: v1.0.1 · 176×208
-- Files: `DeadRising.jar`
-- Source: No verified download yet
-- Source status: The matching JAR is 311,535 bytes.
-- Import: Load the matching JAR directly.
+- Files: `DeadRising.jar` · 311,535 bytes
+- Source: [Choose 2 MB J2ME bundle](https://www.myabandonware.com/game/dead-rising-wc4)
+- Source status: The bundle’s `(a2).jar` matches the saved Omni original byte for byte.
+- Import: Under **J2ME version**, choose the English **v1.0.1** download listed at **2 MB**. Extract `Dead Rising (2008)(Capcom Interactive, Inc.)(v1.0.1)(a2).jar` and select that JAR in **Load Game**.
 
 <details>
 <summary>Verify the matching original file</summary>
@@ -380,9 +380,9 @@ SHA-256: `53049d6a72c6501869d45fa80d6b69fbd4d12dba5b3ec6363ac58e8580209a6f`
 - Platform: BREW
 - Edition: English
 - Files: `Earthworm-Jim-Special-Edition_BREW_EN.zip`
-- Source: No verified download yet
-- Source status: The saved ZIP is 1,364,319 bytes. My Abandonware lists a 1,367,262-byte BREW file. The Qualcomm collection copy uses a different game descriptor from the one Omni expects.
-- Import: Load the complete matching BREW ZIP intact.
+- Source: [Choose English BREW download](https://www.myabandonware.com/game/earthworm-jim-special-edition-wa0)
+- Source status: The current My Abandonware BREW download matches the saved Omni original byte for byte.
+- Import: Under **BREW version**, download the English game file and load the complete ZIP intact. `Earthworm Jim.jar` is the separate Java edition.
 
 <details>
 <summary>Verify the matching original file</summary>
