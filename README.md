@@ -19,6 +19,12 @@ The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage 
 
 [Setup](#download-and-play) · [Original files](#getting-the-right-original-files) · [Updates & help](#public-betas-and-update-history)
 
+## Game library
+
+<p align="center">
+  <a href="./assets/omni/library-screenshot.jpg"><img src="./assets/omni/library-screenshot.jpg" width="380" alt="Omni Player’s Android game library in Grid view, showing iPhone, DoJa, BREW, and J2ME games."></a>
+</p>
+
 ![Recorded in Omni Player: Resident Evil: Genesis on BREW, Final Fantasy VII Snowboarding on DoJa, and Sonic Jump on DoJa.](./assets/omni/gameplay.png)
 
 **See them running:** [Resident Evil: Genesis](https://wakkatobakka.github.io/videos/omni/resident-evil-genesis.mp4) · [FFVII Snowboarding](https://wakkatobakka.github.io/videos/omni/ffvii-snowboarding.mp4) · [Sonic Jump](https://wakkatobakka.github.io/videos/omni/sonic-jump.mp4)
