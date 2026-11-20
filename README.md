@@ -1,81 +1,84 @@
 ![Omni Player — Your games, together.](./assets/omni/hero.png)
 
-<p align="center">
-  <a href="https://github.com/Wakkatobakka/Omni-Player/releases"><img src="./assets/omni/download.png" width="49%" alt="Download Omni Player public beta builds"></a>
-  <a href="https://wakkatobakka.github.io/"><img src="./assets/omni/explore-games-and-archives.png" width="49%" alt="Explore games &amp; archives on the Wakkatobakka website"></a>
-</p>
-
-<p align="center">
-  <a href="./GAME_GUIDE.md">Omni Game Guide</a> ·
-  <a href="https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game">Apple Bridge Game Guide (iPhone games)</a>
-</p>
-
-<p align="center"><strong>BREW · DoJa · J2ME · ExEn · Zeebo · N-Gage · iOS</strong></p>
-
 # Old mobile games. One Android home.
 
-Omni Player brings supported old mobile games and their individual compatibility bridges together in one Android app. **Bring your original game files. Load them in Omni. Play.**
+Play supported flip-phone, N-Gage, Zeebo, and early iPhone games in one Android app. The compatibility bridges are included. You bring the matching original game files.
 
-**Android 11+ / ARM64 · Public beta**
+[**Download Omni Player**](https://github.com/Wakkatobakka/Omni-Player/releases) · [**Find a game**](#find-a-game) · [Setup help](#setup-help)
 
-The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage and N-Gage 2.0. Starting with [Omni Player v0.6.0](https://github.com/Wakkatobakka/Omni-Player/releases/tag/v0.6.0), you can also play supported early iPhone games from Apple Bridge.
-
-Play with touch controls and haptic feedback, or connect a Bluetooth controller and customize its button mapping.
-
-[Setup](#download-and-play) · [Original files](#getting-the-right-original-files) · [Updates & help](#public-betas-and-update-history)
-
-## Game library
-
-<p align="center">
-  <a href="./assets/omni/library-screenshot.jpg"><img src="./assets/omni/library-screenshot.jpg" width="380" alt="Omni Player’s Android game library in Grid view, showing iPhone, DoJa, BREW, and J2ME games."></a>
-</p>
-
-![Recorded in Omni Player: Resident Evil: Genesis on BREW, Final Fantasy VII Snowboarding on DoJa, and Sonic Jump on DoJa.](./assets/omni/gameplay.png)
-
-**See them running:** [Resident Evil: Genesis](https://wakkatobakka.github.io/videos/omni/resident-evil-genesis.mp4) · [FFVII Snowboarding](https://wakkatobakka.github.io/videos/omni/ffvii-snowboarding.mp4) · [Sonic Jump](https://wakkatobakka.github.io/videos/omni/sonic-jump.mp4)
+**Android 11+ · ARM64 · Public beta**
 
 <a name="download-and-play"></a>
 
-## ![Download and play](./assets/omni/get-playing.png)
+## <img src="./assets/omni/get-playing.png" width="720" alt="Get playing">
 
-1. **Install Omni.** Open [Releases](https://github.com/Wakkatobakka/Omni-Player/releases) and download the APK from the newest public beta. Android may ask you to allow installs from your browser or file manager. Release assets also include the component notices for that build.
-2. **Find your original files.** Use the [Apple Bridge Game Guide](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game) for iPhone games or the [Omni Game Guide](GAME_GUIDE.md) for the other platforms. Match the listed edition.
-3. **Load and play.** Open Omni, tap **Load Game**, select the original game file, then launch it from your library.
+1. **Install Omni.** Open [Releases](https://github.com/Wakkatobakka/Omni-Player/releases) and download the APK under **Assets** on the newest public beta.
+2. **Find your game.** Pick a title from the [game guides below](#find-a-game) and get the matching original edition.
+3. **Import and play.** In Omni, tap **Load Game**, select the original file, and tap its tile in the library after it imports.
 
-The bridges are included. You do not need separate bridge downloads.
+**Updating?** Install the new public APK over your existing public installation to keep your library and saves.
 
-**Updating?** Install the new public APK over your existing public Omni installation to retain its library and saves.
+<a name="find-a-game"></a>
+
+## <img src="./assets/omni/find-a-game.png" width="720" alt="Find a game">
+
+- **Flip phones, Zeebo, and N-Gage.** [Search the Public Pile by title](https://wakkatobakka.github.io/#games) or open the [Omni Game Guide](./GAME_GUIDE.md#choose-a-game). It covers BREW, DoJa, J2ME, ExEn, Zeebo, classic N-Gage, and N-Gage 2.0.
+- **iPhone games.** Use the [Apple Bridge Game Guide](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game) to find your game's original `.ipa`. [Omni v0.6.0](https://github.com/Wakkatobakka/Omni-Player/releases/tag/v0.6.0) added support for importing it straight into Omni. [Apple Bridge](https://github.com/Wakkatobakka/Apple-Bridge) is also available as a standalone iPhone game player for Android.
+
+Each guide lists the editions, filenames, sources, and import notes for its games.
+
+### See it running
+
+| Game | Original platform | Gameplay |
+| --- | --- | --- |
+| [Final Fantasy VII: Snowboarding](./GAME_GUIDE.md#game-final-fantasy-vii-snowboarding) | DoJa | [Watch](https://wakkatobakka.github.io/videos/omni/ffvii-snowboarding.mp4) |
+| [Resident Evil: Genesis](./GAME_GUIDE.md#game-resident-evil-genesis) | BREW | [Watch](https://wakkatobakka.github.io/videos/omni/resident-evil-genesis.mp4) |
+| [Mass Effect Infiltrator](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#mass-effect-infiltrator) | iPhone | [Watch](https://www.youtube.com/watch?v=dBjn-ls5UPI) |
+
+[More gameplay clips](https://wakkatobakka.github.io/#gameplay) · [Watch Sonic Jump](https://wakkatobakka.github.io/videos/omni/sonic-jump.mp4)
+
+### Game library
+
+Play with touch controls and haptics, or connect a Bluetooth controller and customize its mapping. Some iPhone game actions still use touch or tilt. Omni fits the full game picture to your screen in portrait or landscape.
+
+<details>
+<summary>Show the library screenshot</summary>
+
+<p>
+  <a href="./assets/omni/library-screenshot.jpg"><img src="./assets/omni/library-screenshot.jpg" width="220" alt="Omni Player’s Android game library in Grid view, showing iPhone, DoJa, BREW, and J2ME games."></a>
+</p>
+
+<a href="./assets/omni/library-screenshot.jpg">Open the full-size screenshot</a>
+
+</details>
+
+<a name="setup-help"></a>
+
+## <img src="./assets/omni/updates-help.png" width="720" alt="Updates and help">
 
 <a name="getting-the-right-original-files"></a>
 
-## ![Getting the right original files](./assets/omni/original-files.png)
+### Getting the right original files
 
-- **iPhone games:** Find the matching original `.ipa` in the [Apple Bridge Game Guide](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md#choose-a-game). In Omni, tap **Load Game** and select the complete IPA. [Apple Bridge](https://github.com/Wakkatobakka/Apple-Bridge) is also available as a standalone app.
-- **BREW, DoJa, J2ME, ExEn, Zeebo and N-Gage:** Find editions, filenames, sources and import notes in the [Omni Game Guide](GAME_GUIDE.md) or [search it on the website](https://wakkatobakka.github.io/#games).
+- **Match the platform and edition.** The same title can have different versions for different phones. Follow the import notes in the guide for your game.
+- **Keep multi-file games together.** Load matching ZIP, RAR, or 7z game archives intact. Supported standalone JAR, EXN, and `.n-gage` files can be loaded directly. For iPhone games, import the complete original `.ipa`.
+- **ExEn and N-Gage first run.** Connect once so Omni can prepare the platform support, then Omni can reuse those files offline. For offline ExEn setup, supply the original EXEN-V2 Emulator ZIP.
 
-Keep multi-file games in their original **ZIP/RAR/7z archive**. Supported standalone **JAR**, **EXN** and **`.n-gage`** files also work. Follow any exception in the game's guide entry; the same title on a different phone platform may be a different game.
-
-**ExEn:** verified platform support is prepared automatically on first use. Connect once, then reuse the offline cache. The original EXEN-V2 Emulator ZIP can also be supplied for offline setup.
-
-**Classic N-Gage and N-Gage 2.0:** platform support is prepared automatically on first use. Connect once for the shared setup; Omni reuses it offline afterward. Choose the matching original game archive or `.n-gage` package listed in the guide.
-
-Source records distinguish confirmed origins, matching listings and missing information. Recovery, preservation and translation credits remain with the people who did that work.
+Android may ask you to allow installation from the browser or file manager you used to open the APK.
 
 <a name="public-betas-and-update-history"></a>
 
-## ![Public betas and update history](./assets/omni/updates-help.png)
+### Updates and bug reports
 
-Current public builds are marked as **prereleases** on GitHub while development and testing continue. The [Releases page](https://github.com/Wakkatobakka/Omni-Player/releases) carries downloads, included bridge versions, changes and the notices belonging to each build.
+The [Releases page](https://github.com/Wakkatobakka/Omni-Player/releases) has the public beta APKs, bridge versions, changes, and component notices for each build. GitHub labels these builds as prereleases.
 
-Every included game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion hasn't been verified for every title, so later bugs or progression issues may still exist.
+I personally test each included game through its tutorial and into the first level, often further. Later bugs and progression issues may still turn up.
 
-**Found a problem?** Open an [issue](https://github.com/Wakkatobakka/Omni-Player/issues). Include the game and edition, Omni version, Android device, what happened, and a saved report or short recording where possible.
-
-**Widescreen support:** widescreen layouts are supported. If your device doesn't play nicely with the layout, let me know through [GitHub Issues](https://github.com/Wakkatobakka/Omni-Player/issues).
+If a game breaks or the layout looks wrong, [open an issue](https://github.com/Wakkatobakka/Omni-Player/issues) with the game and edition, Omni version, Android device, and what happened. A saved report or short recording helps.
 
 <a name="why-im-doing-this"></a>
 
-## ![Why I'm doing this](./assets/omni/why-omni.png)
+## <img src="./assets/omni/why-omni.png" width="720" alt="Why Omni">
 
 This is a one-person hobby, working with AI by directing, testing and iterating around my job and family.
 
@@ -83,10 +86,8 @@ I just think old things are neat. Getting other people playing these games is pa
 
 <a name="files-and-notices"></a>
 
-## ![Files and notices](./assets/omni/credits.png)
+## <img src="./assets/omni/credits.png" width="720" alt="Credits and notices">
 
-Original game executables, audio, level data and firmware are not bundled in the public player. Players supply the matching originals. Decorative title/icon artwork is retained.
+Players supply the matching original game executables, audio, level data, and firmware. Decorative title and icon artwork is retained.
 
-Each release includes its own component notices. Original games, preserved files, translations and runtime components retain their respective ownership and credits. See the [repository notices](THIRD_PARTY_NOTICES.txt) and the notices accompanying your downloaded build.
-
-The gameplay images above are recorded frames from Omni Player. [Artwork and typography credits](./assets/omni/ARTWORK_NOTES.txt).
+The game guides distinguish confirmed sources, matching listings, and missing information. Original games, preserved files, translations, and runtime components retain their respective ownership and credits. See the [repository notices](./THIRD_PARTY_NOTICES.txt), the notices in each release, and the [artwork and typography credits](./assets/omni/ARTWORK_NOTES.txt).
