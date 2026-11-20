@@ -20,11 +20,18 @@ Play old flip-phone, N-Gage, Zeebo, and early iPhone games on Android. Bring the
 <table>
   <tr>
     <td width="76%" valign="middle">
-      <ol>
-        <li><strong>Install Omni.</strong> Open the downloaded APK.</li>
-        <li><strong>Find a game.</strong> Get the matching <a href="#find-a-game">original file</a>.</li>
-        <li><strong>Play.</strong> Tap <strong>Load Game</strong>, select the file, then tap its game tile.</li>
-      </ol>
+      <p>
+        <a href="https://github.com/Wakkatobakka/Omni-Player/releases/download/v0.6.0/Omni-Player-0.6.0.apk"><img src="./assets/omni/get-playing/install-omni.png" width="100%" alt="01 Install Omni — download the Android APK"></a><br>
+        <sub>Open the APK after download.</sub>
+      </p>
+      <p>
+        <a href="#find-a-game"><img src="./assets/omni/get-playing/find-a-game.png" width="100%" alt="02 Find a game — open the game guides"></a><br>
+        <sub>Get the matching original game file.</sub>
+      </p>
+      <p>
+        <a href="#load-a-game"><img src="./assets/omni/get-playing/load-and-play.png" width="100%" alt="03 Load and play — see the import and play steps"></a><br>
+        <sub>Open Omni and tap <strong>Load Game</strong>.</sub>
+      </p>
     </td>
     <td align="center" valign="middle">
       <a name="game-library"></a>
@@ -71,6 +78,12 @@ Play with touch controls and haptics, or connect a Bluetooth controller and cust
 <a name="setup-help"></a>
 
 ## <img src="./assets/omni/updates-help.png" width="100%" alt="Updates and help">
+
+### Load a game
+
+1. Open Omni and tap **Load Game**.
+2. Select the matching original file and let the import finish.
+3. Tap the game's tile in your library to play.
 
 <a name="getting-the-right-original-files"></a>
 
