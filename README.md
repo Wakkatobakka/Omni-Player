@@ -2,8 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Wakkatobakka/Omni-Player/releases"><img src="./assets/omni/download.png" width="49%" alt="Download Omni Player public beta builds"></a>
-  <a href="./GAME_GUIDE.md"><img src="./assets/omni/game-guide.png" width="49%" alt="Find your game, its original files, and sources in the game guide"></a>
+  <a href="https://wakkatobakka.github.io/"><img src="./assets/omni/explore-games-and-archives.png" width="49%" alt="Explore games &amp; archives on the Wakkatobakka website"></a>
 </p>
+
+<p align="center"><a href="./GAME_GUIDE.md">Game guide &amp; original files</a></p>
 
 <p align="center"><strong>BREW · DoJa · J2ME · ExEn · Zeebo · N-Gage</strong></p>
 
@@ -15,7 +17,7 @@ Omni Player brings supported old mobile games and their individual compatibility
 
 The public collection covers BREW, DoJa, J2ME, ExEn, Zeebo/BREW, classic N-Gage and N-Gage 2.0. Play with touch controls and haptic feedback, or connect a Bluetooth controller and customize its button mapping.
 
-[Setup](#download-and-play) · [Original files](#getting-the-right-original-files) · [Updates & help](#public-betas-and-update-history) · [Website](https://wakkatobakka.github.io/#games)
+[Setup](#download-and-play) · [Original files](#getting-the-right-original-files) · [Updates & help](#public-betas-and-update-history)
 
 ![Recorded in Omni Player: Resident Evil: Genesis on BREW, Final Fantasy VII Snowboarding on DoJa, and Sonic Jump on DoJa.](./assets/omni/gameplay.png)
 
